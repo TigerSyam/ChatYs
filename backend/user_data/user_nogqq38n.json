@@ -1,0 +1,18 @@
+{
+  "user_id": "user_nogqq38n",
+  "username": "User_user_nog",
+  "created_at": "2025-06-01T12:52:57.724860",
+  "last_active": "2025-06-01T12:52:57.724860",
+  "preferences": {
+    "language": "English",
+    "theme": "dark",
+    "voice_enabled": true,
+    "auto_scroll": true
+  },
+  "personality_traits": {
+    "formality": 0.5,
+    "humor": 0.5,
+    "creativity": 0.5,
+    "detail_level": 0.5
+  }
+}
