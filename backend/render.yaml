@@ -3,7 +3,7 @@ services:
     name: chaty-backend
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: uvicorn main:app --host=0.0.0.0 --port=10000
+    startCommand: PYTHONPATH=. uvicorn main:app --host=0.0.0.0 --port=10000
     envVars:
       - key: SECRET_KEY
         sync: false
